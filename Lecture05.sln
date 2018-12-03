@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cycles", "Cycles\Cycles.csproj", "{656975D6-0B37-4916-83AC-EF4F308C4D0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "Arrays\Arrays.csproj", "{10BC0DD3-93BB-41DA-9D55-FF43E0B8DB48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{656975D6-0B37-4916-83AC-EF4F308C4D0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{656975D6-0B37-4916-83AC-EF4F308C4D0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{656975D6-0B37-4916-83AC-EF4F308C4D0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{656975D6-0B37-4916-83AC-EF4F308C4D0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10BC0DD3-93BB-41DA-9D55-FF43E0B8DB48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10BC0DD3-93BB-41DA-9D55-FF43E0B8DB48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10BC0DD3-93BB-41DA-9D55-FF43E0B8DB48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10BC0DD3-93BB-41DA-9D55-FF43E0B8DB48}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A2E3F56-5133-4D28-AEC4-E53C634B909A}
+	EndGlobalSection
+EndGlobal
